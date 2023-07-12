@@ -10,6 +10,12 @@
 - 🧘 **meditation**,
 - 🎮 **computer gaming**.
 
+## 📚 My Articles
+
+- ![Pure Function](https://dev.to/genakalinovskiy/what-is-a-pure-function-1h3j)
+- ![Collapse with Request Animation](https://dev.to/genakalinovskiy/collapse-with-requestanimationframe-api)
+
+
 ## 🚀 Skills
 
 ### Languages
