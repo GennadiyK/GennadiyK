@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 My name is Gennadiy and  I have been working as a **Front End Web Developer** for 10 years. I love helping others to become a web developers and that is why I desided to create a [**Web Dev Shortly channel**](https://www.instagram.com/web_dev_shortly/). 
+👨‍💻 My name is Gennadiy and  I have been working as a **Front End Web Developer** for 10 years. I love helping others to become a web developers and that is why I decided to create a [**Web Dev Shortly channel**](https://www.instagram.com/web_dev_shortly/). 
 
 😊 I have some **hobbies**: 
 
